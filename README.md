@@ -1,5 +1,4 @@
-ggsashimi_HandsOn
-
+# ggsashimi Hands-On
 This repository documents the completion of the ggsashimi Docker hands-on exercise.
 
 The exercise consisted of:
